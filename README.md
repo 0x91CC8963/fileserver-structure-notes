@@ -1,11 +1,6 @@
-## Fileserver
-Current notes for my actual localhost fileserver I run.  
-It serves various purposes but the basic idea is that all of the important stuff happens on a raid device.  
-So as long as 1 device has a working pool the OS can come and go.  
-
-## Key
-`/fileops/` -> Scripts that work with files (bulk utilities)  
-`/webops/` -> Scripts that work with web operations (like scraping)
+## Fileserver Structure Notes
+Notes for an optimized one-storage-device style server  
+I don't use this structure anymore. But I feel it is still a good reference  
 
 ## Layout
 ```
